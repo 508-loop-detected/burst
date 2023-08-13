@@ -6,7 +6,7 @@ This module started out as a breadboard implementation of Ken Stone's Catgirl Bu
 
 So that's what you get: bursts of triggers, from 2 to 9, with a 7-segment display & a momentary toggle switch to control the number of triggers, plus up/down incrementing of that number via CV (OK, really clock/trigger) inputs.
 
-The 7-segment display is pretty small, so in order to get it sit anywhere close to the panel, I use 2mm-pitch female headers (same ones I use for board-to-board connections.
+The 7-segment display is pretty small, so in order to get it sit anywhere close to the panel, I use 2mm-pitch female headers (same ones I use for board-to-board connections. The specific 7-segment I use is this one: https://mou.sr/44XUS4N
 
 Trimming is as follows:
 
