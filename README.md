@@ -15,3 +15,5 @@ Trimming is as follows:
 - VR7 -> the reference voltage for the comparators cleaning up the clock and trigger inputs 
 
 This module, like many of my modules, uses 2mm-pitch male/female headers. Be sure you order/use the right thing!
+
+Here is a short video demo of the burst module in action: https://youtu.be/QA0q3XWzLp0
